@@ -1,0 +1,6 @@
+{
+  "name": "Allan Jenisha UI/UX Prototype App",
+  "description": "Interactive mobile application prototype viewer and implementation for Allan Jenisha UI/UX Prototype, featuring high-fidelity device simulation, Figma prototype integration, and interactive flows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
