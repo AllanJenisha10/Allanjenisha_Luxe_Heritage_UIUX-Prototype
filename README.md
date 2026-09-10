@@ -146,7 +146,26 @@ B.Tech Information Science & Engineering, Women's Engineering College (PTU)
 GitHub: [@AllanJenisha10](https://github.com/AllanJenisha10)
 
 ---
+## Screenshots
 
+| Villa Booking | Room Service | Boarding Pass |
+|:---:|:---:|:---:|
+| 
+
+![Booking](screenshots/booking.png)
+
+ | 
+
+![Room Service](screenshots/room-service.png)
+
+ | 
+
+![Boarding Pass](screenshots/boarding-pass.png)
+
+ |
+ 
+ ----
+ 
 ## Repository
 
 https://github.com/AllanJenisha10/Allanjenisha_Luxe_Heritage_UIUX-Prototype
